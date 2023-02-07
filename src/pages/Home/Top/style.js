@@ -2,7 +2,7 @@ import styled from "styled-components";
 
 const TopContainer = styled.div`
   width: 100%;
-  height: 50px;
+  height: 80px;
   display: flex;
   justify-content: space-between;
   position: fixed;

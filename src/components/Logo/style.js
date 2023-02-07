@@ -5,8 +5,9 @@ const LogoContainer = styled.div`
   display: flex;
   justify-content: center;
   align-items: center;
-  img {
-    width: 50%;
+  h1 {
+    font-size: 1.5em;
+    font-family: "Rajdhani";
   }
 `;
 
